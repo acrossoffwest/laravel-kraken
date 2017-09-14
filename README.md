@@ -1,3 +1,5 @@
+A composer package for the Kraken PHP API which supports the Laravel 5 framework. Original package by https://github.com/danvuquoc/laravel-kraken, but wasn't updated in months for Laravel 5.3 and 5.4. Credits go completely to him!
+
 # laravel-kraken
 A composer package for the Kraken PHP API which supports the Laravel 5
 framework.
