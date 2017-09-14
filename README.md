@@ -15,7 +15,7 @@ Alternatively, you may edit your composer.son directly by adding the following
 to the require section.
 ```
 "require": {
-    "danvuquoc/laravel-kraken": "1.*",
+    "acrossoffwest/laravel-kraken": "1.*",
 }
 ```
 
