@@ -9,7 +9,7 @@ The best way to install laravel-kraken is with [Composer](<https://getcomposer.o
 
 To install the most recent version, run the following command.
 
-`$ php composer.phar require danvuquoc/laravel-kraken`
+`$ php composer.phar require acrossoffwest/laravel-kraken`
 
 Alternatively, you may edit your composer.son directly by adding the following
 to the require section.
